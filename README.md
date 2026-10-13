@@ -123,9 +123,8 @@ pip install -r requirements.txt
 
 # 4. Datos para procesar
 Descargar desde el enlace y agregar a la raiz del proyecto
-[Carpeta data](https://drive.google.com/drive/folders/1XbWdro2dOOhHQUt-Y7uCEi1OVM2Yeba4?usp=sharing)
 ```
-
+[Carpeta data](https://drive.google.com/drive/folders/1XbWdro2dOOhHQUt-Y7uCEi1OVM2Yeba4)
 
 ### Variables de entorno
 
