@@ -120,7 +120,12 @@ source .venv/bin/activate        # Windows: .venv\Scripts\activate
 
 # 3. Instalar dependencias
 pip install -r requirements.txt
+
+# 4. Carpeta data
+Descargar de la ruta
+https://drive.google.com/drive/folders/1XbWdro2dOOhHQUt-Y7uCEi1OVM2Yeba4?usp=sharing
 ```
+
 
 ### Variables de entorno
 
