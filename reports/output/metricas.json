@@ -1,0 +1,92 @@
+{
+ "facturas_crudas": {
+  "PV01": 21898,
+  "PV02": 8631
+ },
+ "lineas_crudas": {
+  "PV01": 60210,
+  "PV02": 19775
+ },
+ "clientes": {
+  "PV01": 5746,
+  "PV02": 2918
+ },
+ "clientes_en_ambas": 858,
+ "facturas_validas": {
+  "PV01": 20974,
+  "PV02": 8180
+ },
+ "lineas_validas": {
+  "PV01": 57650,
+  "PV02": 18708
+ },
+ "valor_linea": {
+  "mediana": 13400.0,
+  "media": 30045.0,
+  "desv": 55405.0,
+  "p99": 238404.0,
+  "max": 2732000.0,
+  "atipicos": 2605
+ },
+ "corr_cantidad_valor": 0.35,
+ "variacion_semestral_pct": {
+  "PV01": {
+   "ventas": 19.4,
+   "n": 9.9,
+   "ticket": 8.7,
+   "cli": 11.9
+  },
+  "PV02": {
+   "ventas": 18.0,
+   "n": 10.3,
+   "ticket": 7.0,
+   "cli": 4.6
+  }
+ },
+ "variacion_sin_recargas_pct": {
+  "PV01": 17.3,
+  "PV02": 8.5
+ },
+ "recargas_pct_valor": {
+  "PV01": 3.1,
+  "PV02": 12.5
+ },
+ "domicilio_pct": {
+  "PV01": 71.4,
+  "PV02": 67.5
+ },
+ "domicilio_semestre_pct": {
+  "PV01_H1": 76.7,
+  "PV01_H2": 66.9,
+  "PV02_H1": 74.4,
+  "PV02_H2": 61.7
+ },
+ "pareto_PV01": {
+  "referencias": 4637,
+  "n_80pct": 1193,
+  "pct_80pct": 25.7
+ },
+ "pareto_PV02": {
+  "referencias": 2936,
+  "n_80pct": 844,
+  "pct_80pct": 28.7
+ },
+ "rfm_PV01": {
+  "clientes": 5581,
+  "pct_una_compra": 55.8,
+  "pct_inactivos_60": 67.2,
+  "recurrentes": 1188,
+  "recurrentes_inactivos_60": 432,
+  "pct_recurrentes_inactivos_60": 36.4,
+  "pct_ventas_top20_clientes": 72.8
+ },
+ "rfm_PV02": {
+  "clientes": 2791,
+  "pct_una_compra": 67.1,
+  "pct_inactivos_60": 77.3,
+  "recurrentes": 349,
+  "recurrentes_inactivos_60": 157,
+  "pct_recurrentes_inactivos_60": 45.0,
+  "pct_ventas_top20_clientes": 69.5
+ }
+}
